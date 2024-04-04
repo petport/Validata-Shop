@@ -12,7 +12,7 @@ using ValidataShopTest.DAL;
 namespace ValidataShopTest.Migrations
 {
     [DbContext(typeof(ValidataShopContext))]
-    [Migration("20240403175413_InitialCreate")]
+    [Migration("20240404124329_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
